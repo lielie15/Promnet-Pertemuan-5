@@ -4,12 +4,10 @@ body {
     text-align: center;
     margin: 0;
     padding: 150px;
-
 }
 
 h1 {
     color: rgb(255, 224, 224);
-
 }
 
 #itemForm{
@@ -73,7 +71,6 @@ h1 {
 
 .valid {
   border-color: rgb(16, 97, 16);
- 
 }
 
 .selesai {
